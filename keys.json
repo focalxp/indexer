@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yearbook-indexer-350611",
+  "private_key_id": "37d04adc38091d16a5f2dcad1e8f7b296d506862",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLmkhYlCqSTfMJ\neBSYdGk6lK8G0PQa+4K25b3gWt9DDqJHEt1xaVudeJYQQnWFiaAFsdFTaxaY5DOT\nsb7eIkIUXUftJbY/moEpNFS9ldxqVsn13cwoLNIyNR4BaAwcDekN7B3BWCkMw8Ng\nVyoD57qStuwZY3UI4MnKymxHUkBcNOmoxsteuzhmFV+GZj6zkqSejQWlRckCJNkg\nYZy/bTlnRcpxnRX8qz3skHnWotcXGGkq2fyS2798KungTt7nY7vepuZ5YIyvYOmi\nLRTBKkj/SiEXAMdF4X4EEn7/dG9CzsydBz8bTNUQogbdIjqIZG/izMG7sgYAe1dH\nR/KCEPDnAgMBAAECggEACYBTUfbldFsONWnqJCHX60jsULgdkXNylSXBfPUgqBjI\nZTgHJ3dliW1gK2AT6z28lFIeVPM8Dw8kglxFbkj7pnGinU7TjhegDBPfbygi12o3\nazGE3ncWVAt7MVDxXQ8fyhYzs/Bw8fc3aIkzcmfforXF7NAMXR6zAV39kZJ6uGgW\nW11IJw/1MMwlyag9uqe3SN84FJiN4paQACroIWJticUy0S0YO862SaiaW4H8XrAp\nKy1HQ5vAfJhDKbDzvZ9PxnLX0Vqbyf4FpXJ3GTkHr9xntdyRbSOjZScxMYCrvFCD\nF97FnOTrQFFNZyFGWI0tf+CUEJmDYOyFaZyW7OU+iQKBgQD1hN9sVinRYqsLTG/y\n+639al8sjjcKn3w3soxSDPKVvcET7/Bgike94yFJAGCXAkui5KJXcxYFjm7sI2dr\nW4sbtl/rd9/vB0MuRlTlPjyMvN4FX1wFjj4MYQab5hk0BsRFpnO4QrmYR+skWUMm\nQo/KWxpu7fO562i27+3m33xM5QKBgQDUS1Te71Xdz++YaDiWFenKyQymEq3+064F\nrN8Pdwd3ehRNghm+N1pP/JSpZE57SdpRpNnito2NQa8tM/OxKVH3NBV10EaRYqf8\n+QGvlFQkmASENzATIbdSNXt3OlkI/ANvEzcE9nEEfHCmtopURDJH+GnsP9BS2pIj\nRhSNelT12wKBgAQzFqNCwgpb1rMlxpBwb6RzCle3wwdCfRxyyGWq5QdcrI3Lv9/W\n3a1I0kvuXriWiHar1H8Mb+b+bbVKUb2LXlDGCNP9Q+5RwHttJoyZSO3bWSzcWbWa\nnkMV8cf+4pV6PCc41qfjNEt/h20ivbxMzSrX7hbRqSaX+T2P0xDs57JlAoGBAIuA\nKPgJu5nzPpUevzhYk/WOIYKruaw++xZ9n2IxLDXlgZvhBvuIsg7ngeTBphS71fta\nYVbp8KBG7k682cCrz1Gq5wMw5n44nvzLv8DZrmURg75B6ZRYznb17/jL3Z/awoLl\n1HytWFzDTN8wCjwPSB8k7K2yzTj0qZ0GOxEwts2LAoGBAJhJ9LGKm0fNpnA1hui9\n2yesydV2Ts7fP1FzQrvM8TxCEfDVWppzlnLRMdpWRXS0n5roI6NzDqGrV5ua5RDl\ngs/RtswVNMNNJkxy7OvH/EuFBstEXza+fJsuSg0xdCVwV/iSF6H8u2OlLKcY8irj\n/NRNEZFiBpBss3O8kHARQb36\n-----END PRIVATE KEY-----\n",
+  "client_email": "yrbkbaby@yearbook-indexer-350611.iam.gserviceaccount.com",
+  "client_id": "100583679776927917508",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yrbkbaby%40yearbook-indexer-350611.iam.gserviceaccount.com"
+}
