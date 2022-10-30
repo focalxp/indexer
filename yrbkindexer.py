@@ -21,7 +21,7 @@ creds = service_account.Credentials.from_service_account_file(
         SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
 # The ID and range of a sample spreadsheet.
-SAMPLE_SPREADSHEET_ID = '1DQyjh1-8TEFKUqqSi9b-TNcjsCtnCspWiMbv3t2mJeM'
+SAMPLE_SPREADSHEET_ID = ''
 
 
 service = build('sheets', 'v4', credentials=creds)
